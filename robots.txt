@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /admin/
 Disallow: /users/
-Sitemap: https://milos860.github.io/Portfolio-sajt/sitemap.xml
+Sitemap: https://bojann05.github.io/PortfolioBojanNovakovic/
