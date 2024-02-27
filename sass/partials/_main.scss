@@ -1,0 +1,76 @@
+#pozadinska_slika{
+    width: 100%;
+    height: 843px;
+    background-image: url('../../slike/zozadina.jpg');
+    background-size: cover;
+    background-position: center bottom;
+    background-attachment: fixed;
+    h2{
+        color: $text-color;;
+        font-size: 1.5vw;
+        padding: 180px 0px 0px 177px;
+        animation: slideIn 1s ease-out forwards;
+        transform: translate(0, -10%);
+        top: 50%;
+        left: -100%; 
+        position: relative;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    }
+    h1{
+        color: $text-color;
+        font-size: 2.7vw;
+        padding: 0px 0px 0px 137px;
+        animation: slideIn 1s ease-out forwards;
+        transform: translate(0, -20%);
+        top: 50%;
+        left: -100%; 
+        position: relative;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    }
+    p{
+        color: $text-color;
+        font-size: 1.4vw;
+        padding-left: 157px;
+        margin-bottom: 30px;
+        animation: slideIn 1s ease-out forwards;
+        transform: translate(0, -10%);
+        top: 50%;
+        left: -100%; 
+        position: relative;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    }
+    a{
+        text-decoration: none;
+        padding: 10px 15px;
+        color: $text-color;
+        margin: 10px 253px;
+        border-radius: 20px;
+        font-size: 25px;
+        animation: slideIn 1s ease-out forwards;
+        transform: translate(0, -10%);
+        top: 50%;
+        left: -100%; 
+        position: relative;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    }
+    a:hover{
+        background-color: #ee771d;
+        color: black;
+        transition: 0.8s;
+    }
+    .slika_mene{
+        background-image: url('../../slike/mojaslika.jpg');
+        width: 50%;
+        height: 500px;
+        background-position: -43px -108px;
+        background-repeat: no-repeat;
+        margin: -14% 0% 0% 46%;
+        border-radius: 10%;
+        box-shadow: 0px 0px 20px 5px #ee771d;
+    }
+}
+@keyframes slideIn {
+    to {
+        left: 0;  
+    }
+}

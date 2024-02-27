@@ -1,0 +1,81 @@
+#projekti{
+    width: 100%;
+    height: 600px;
+    background-color: gray;
+    
+    h1{
+        text-align: center;
+        padding-top: 20px;
+        color: $text-color;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    } 
+    .wrap{
+        display: $df;
+        justify-content: $se;
+        flex-direction: row;
+        width: 100%;
+        margin-top: 50px;
+        .prvi_projekat{
+            width: 30%;
+            border: 4px solid black;
+            border-radius: 4%;
+            background-color:#333333;
+            p{
+                color: $text-color;
+                font-size: 1.3vw;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+            }
+            img{
+                border-radius: 4%;
+                width: 100%;
+            }
+            img:hover{
+                transform: rotate(2deg);
+                transition: transform 0.3s ease-in-out;
+            }
+        }
+        .drugi_projekat{
+            width: 30%;
+            border: 4px solid black;
+            border-radius: 4%;
+            background-color:#5959a6;
+            p{
+                color: $text-color;
+                font-size: 2.8vw;
+                text-align: center;
+                padding-top: 30px;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+            }
+            img{
+                width: 100%;
+                border-radius: 4%;
+            }
+            img:hover{
+                filter: brightness(1.5);
+                transition: filter 0.3s ease-in-out;
+            }
+        }
+        .treci_projekat{
+            width: 30%;
+            border: 4px solid black;
+            border-radius: 4%;
+            background-color: #000;
+            p{
+                color: $text-color;
+                font-size: 2.8vw;
+                text-align: center;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+            }
+            img{
+                width: 100%;
+                opacity: 0.5;
+                border-radius: 4%;
+            }
+            img:hover{
+                opacity: 0.3;
+                transition: opacity 0.5s ease-in-out;
+            }
+        }
+    }
+   
+}

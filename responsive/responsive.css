@@ -1,0 +1,998 @@
+@media screen and (max-width: 1916px){
+    #O_meni{
+        .nesto{
+            p{
+                margin-top: 50px;
+            }
+}
+}
+}
+@media screen and (max-width: 1896px) {
+    #O_meni{
+        .nesto{
+            p{
+                font-size: 1.8vw;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+                margin-top: 70px;
+                margin-bottom: 20px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 1355px){
+    #O_meni{
+        .info_omeni{
+            font-size: 30px;
+            margin:100px 10px 88px 9px;
+            
+        }
+        .nesto{
+            p{
+                font-size: 2.1vw;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+                margin-top: 70px;
+                margin-bottom: 60px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 865px){
+    #O_meni{
+        .nesto{
+            p{
+                margin-bottom: 26px;
+                margin-top: 59px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 748px){
+    #O_meni{
+        .info_omeni{
+            font-size: 25px;
+            margin: 56px 10px 137px 10px;
+        }
+        .nesto{
+            p{
+                font-size: 2.4vw;
+            }
+        }
+    }
+}
+@media screen and (max-width: 671px){
+    #O_meni{
+        .nesto{
+            p{
+            margin-top: 38px;
+            margin-bottom: 24px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 659px){
+    #O_meni{
+        .info_omeni{
+            font-size: 22px;
+            margin: 69px 6px 200px 26px;
+        }
+        .nesto{
+            p{
+                font-size: 2.6vw;
+            }
+            a{
+                margin-left: -400px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 622px){
+    #O_meni{
+        .nesto{
+            p{
+                margin-top: 10px;
+                margin-bottom: 28px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 871px){
+    #O_meni{
+        .nesto{
+            p{
+                margin-top: 10px;
+                margin-bottom: 40px;
+                font-size: 2.4vw;
+            }
+        }
+    }
+}
+@media screen and (max-width: 851px){
+    #O_meni{
+        height: 530px;
+        .info_omeni{
+            margin: 100px 10px 110px 9px;
+        }
+    }
+}
+@media screen and (max-width: 805px){
+    #O_meni{
+        height: 600px;
+        .info_omeni{
+            margin: 100px 10px 150px 9px;
+        }
+    }
+}
+@media screen and (max-width: 767px){
+    #O_meni{
+        height: 620px;
+        .info_omeni{
+            margin: 100px 10px 220px 9px;
+        }
+    }
+}
+@media screen and (max-width: 659px){
+    #O_meni{
+        .nesto{
+            p{
+                font-size: 3vw;
+            margin: 265px 60px 23px -395px;
+            }
+        }
+        .info_omeni{
+            margin: 15px 18px 364px 90px;
+        }
+    }
+}
+@media screen and (max-width: 500px){
+    #O_meni{
+        height: 600px;
+        .nesto{
+            p{
+                font-size: 3.5vw;
+                 margin-top: 250px;
+                margin-bottom: 21px;
+                margin-left: -384px;
+            }
+        }
+        .info_omeni{
+            font-size: 22px;
+            margin: 16px 6px 370px 60px;
+            padding: 18px 8px 13px 12px;
+        }
+    }
+}
+@media screen and (max-width: 1100px){
+    header {
+        nav {
+            ul {
+                li {
+                    font-size: 28px;
+                    a {
+                        padding: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width: 1500px){
+        #pozadinska_slika{
+            .text{
+                a{
+                    margin: 10px 220px;
+                }
+            }
+            .slika_mene{
+                background-position: -200px -108px;
+            }
+        }
+    }
+@media screen and (max-width: 1500px){
+    header{
+        nav{
+            width: 70%;
+        }
+    }
+}      
+@media screen and (max-width: 1090px){
+    #pozadinska_slika{
+        .text{
+            h2{
+                padding: 180px 0px 0px 116px;
+            }
+            h1{
+                padding: 0px 0px 0px 100px;
+            }
+            p{
+                padding-left: 103px;
+            }
+            a{
+                margin: 10px 120px;
+            }
+        }
+        .slika_mene{
+            background-position: -272px -110px;
+        }
+    }
+}
+@media screen and (max-width: 1090px){
+    #Kontakt{
+        .wraper{
+            .formular{
+                form{
+                textarea{
+                    width: 300px;
+                }
+              }
+            }
+        }
+    }
+}
+@media screen and (max-width: 900px){
+    header{
+        nav{
+            width: 88%;
+            ul{margin-right: 118px;
+                li{
+                    a{
+                        font-size: 20px;
+                        margin-right: 3px;
+                        padding: 14px;
+                    }
+                }
+            }
+        }
+        #logo{
+            width: 10%;
+            height: 110px;
+            margin-top: 15px;
+            a{
+                margin:10px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 900px){
+    #pozadinska_slika{
+        .slika_mene{
+            background-position: -323px -110px;
+            margin: 6% 0% 0% 18%;
+         }
+         .text{
+            h2{
+                padding: 76px 0px 0px 255px;
+            }
+            h1{
+                padding: 0px 0px 0px 234px;
+            }
+            p{
+                padding-left: 229px;
+            }
+            a{
+                margin: 10px 203px;
+            }
+         }
+    }
+}
+@media screen and (max-width: 900px){
+    #O_meni{
+        height: 660px;
+        .info_omeni{
+            font-size: 30px;
+            margin: 85px 11px 241px -17px;
+        }
+        .nesto{
+            p{font-size: 2.24vw;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+                margin-top: 10px;
+                margin-bottom: 24px;
+                margin-right: 156px;
+            }
+            a{
+                margin-right: 170px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 873px){
+    #O_meni{
+        height: 700px;
+        .nesto{
+            p{
+                font-size: 2.2vw;
+            }
+        }
+        .info_omeni{
+            margin: 85px 3px 280px -15px;
+        }
+    }
+}
+@media  screen and (max-width:1445px) {
+    #Kontakt{
+        .mapa{
+            margin-right:300px ;
+        }
+        .wraper{
+            .formular{
+                form{
+                    textarea{
+                        width: 300px;
+                    }
+                }
+            }
+        }
+    }
+    
+}
+@media  screen and (max-width:1445px){
+    #projekti{
+        height: 1160px;
+        .wrap{
+            display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-around;
+        }
+    }
+}
+@media screen and (max-width:768px){
+    #projekti{
+        .wrap{
+            margin-top:100px;
+            .prvi_projekat{
+                width: 50%;
+                    p{
+                        font-size: 2vw;
+                    }
+            }
+            .drugi_projekat{
+                width: 50%;
+            }
+            .treci_projekat{
+                width: 50%;
+            }
+        }
+    }
+}
+@media screen and (max-width:862px){
+    #O_meni{
+        .info_omeni{
+            margin: 45px 0px 414px 27px;
+            font-size: 22px;
+        }
+        .nesto{
+            p{
+                font-size: 2.5vw;
+                margin-top: 80px;
+                margin-bottom: 62px;
+                margin-right: 49px;
+            }
+            a{
+                margin-right: 35px;
+            }
+        }
+    }
+}
+@media screen and (max-width:1205px){
+    #Kontakt{
+        height: 1200px;
+        .wraper{
+            .formular{
+                padding-top: 10px;
+                margin-top: 7px;
+                margin-right: -964px;
+                form{
+                    margin-right: 90px;
+                }
+            }
+            .mapa{
+                margin-right: -50px;
+                margin-top: 661px;
+            }
+        }
+    }
+}
+@media (max-width: 730px) {
+    header {
+        height: 330px;
+        flex-direction: column;
+        align-items: center;
+        #logo{
+            width: 18%;
+            height: 110px;
+            margin-top: 10px;
+            margin-right: 151px;
+        }
+    }
+
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin-top: 1px; 
+    }
+}
+@media screen and (max-width: 556px){
+    #pozadinska_slika{
+        .text{
+            h2{
+                padding: 180px 0px 0px 52px;
+                font-size: 3.5vw;
+
+            }
+            h1{
+                padding: 0px 0px 0px 70px;
+                font-size: 4vw;
+            }
+            p{
+                padding-left: 60px;
+                font-size: 2.4vw;
+            }
+            a{
+                margin: 10px 49px;
+            }
+        }
+        .slika_mene{
+            width: 60%;
+            background-position: -415px -111px;
+            margin: 6% 0% 0% 3%;
+        }
+    }
+}
+@media screen and  (max-width: 556px){
+    #O_meni{
+    .info_omeni {
+    margin: 45px 0px 440px 37px;
+    font-size: 20px;
+}
+.nesto{
+    
+    p {
+        font-size: 3.23vw;
+    margin-top: -2px;
+    margin-bottom: 53px;
+    margin-right: 58px;
+}
+}
+    }
+}
+@media screen and (max-width: 556px) {
+    #vestine{
+        .skilovi{
+    width: 368px;
+    margin: 54px 19px 58px -10px;
+    padding: 20px;
+    
+        }
+    }
+}
+@media screen and (max-width: 610px) {
+    #projekti{
+        .wrap{
+            .prvi_projekat{
+                width: 70%;
+                margin-right: 74px;
+                p{
+                  font-size: 5vw;  
+                }
+            }
+            .drugi_projekat{
+                width: 70%;
+                p{
+                    font-size: 5vw;
+                }
+            }
+            .treci_projekat{
+                width: 70%;
+                p{
+                     font-size: 5vw;
+                  }
+            }
+        }
+    }
+    
+}
+@media screen and (max-width: 840px) {
+    #Kontakt{
+        .wraper{
+            .formular{
+                padding-top: 19px;
+                margin-top: 7px;
+                margin-right: -810px;
+                form{
+                    margin-right: 67px;
+                    textarea{
+                        width: 140px;
+                    }
+                }
+
+            }
+            .mapa{
+                margin-right: -81px;
+                margin-top: 625px;
+            }
+        }
+    }
+    
+}
+@media screen and (max-width: 838px) {
+    footer{
+        #ime{
+            p{
+                font-size: 3.7vw;
+                margin-left: 5px;
+            }
+        }
+        .ikonice{
+            margin-right: 200px;
+            font-size: 4vw;
+        }
+    }
+    
+}
+@media screen and (max-width: 1015px) {
+    #projekti{
+       
+        .wrap{
+            .prvi_projekat{
+                width: 50%;
+                p{
+                    font-size: 3vw;
+                }
+            }
+            .drugi_projekat{
+                width: 50%;
+            }
+            .treci_projekat{
+                width: 50%;
+            }
+        }
+
+    }
+    
+}
+@media screen and (max-width: 862px) {
+    #vestine{
+        .skilovi{
+            width: 418px;
+             margin: 40px 60px 60px 52px;
+        }
+    }
+    
+}
+@media screen and (max-width: 642px){
+#pozadinska_slika
+.text
+    a {
+    margin: 10px 190px;
+    }
+}
+@media screen and (max-width: 600px) {
+    #pozadinska_slika{
+        .text{
+            h2{
+                padding: 76px 0px 0px 136px;
+                font-size: 3.5vw;
+            }
+            h1{
+                font-size: 4.7vw;
+                padding: 0px 0px 0px 140px;
+            }
+            p{
+                padding-left: 80px;
+                font-size: 3.4vw;
+            }
+            a{
+                margin: 10px 130px;
+            }
+        }
+        .slika_mene{
+            width: 76%;
+            background-position: -330 -110;
+
+        }
+    }
+    
+}
+@media screen and (max-width: 510px) {
+    footer{
+        #ime{
+            p{
+                font-size: 4.7vw;
+            }
+        }
+        .ikonice{
+            margin-right: 128px;
+        }
+    }
+    
+}
+@media  screen and (max-width: 510px) {
+    #vestine{
+        .skilovi{
+            
+                width: 388px;
+                margin: 40px 56px 53px 3px;
+        }
+    }
+    
+}
+@media screen and (max-width: 454px){
+#pozadinska_slika
+.text
+a {
+    margin: 10px 60px;
+    font-size: 18px;
+}
+}
+@media screen and (max-width: 426px) {
+    #pozadinska_slika{
+        .text{
+            h2{
+                padding: 75px 0px 0px 73px;
+                font-size: 2.5vw;
+            }
+            h1{
+                font-size: 3.7vw;
+                padding: 0px 0px 0px 71px;
+            }
+            p{
+                padding-left: 53px;
+                font-size: 2.4vw;
+            }
+        }
+    }
+    
+}
+@media screen and (max-width: 390px) {
+    #vestine{
+        .skilovi{
+            width: 335px;
+        }
+    }   
+}
+@media screen and (max-width: 390px) {
+    #projekti{
+        .wrap{
+            .prvi_projekat{
+                width: 76%;
+                margin-top: 44px;
+                p{
+                    font-size: 5vw;
+                }
+            }
+            .drugi_projekat{
+                width: 76%;
+                p{
+                    font-size: 7vw;
+                }
+            }
+            .treci_projekat{
+                width: 76%;
+                p{
+                    font-size: 7vw;
+                }
+            }
+        }
+    }
+    
+}
+@media screen and (max-width: 390px){
+#O_meni
+.info_omeni {
+    
+    font-size: 19px;
+}
+}
+@media screen and (max-width: 390px) {
+    footer{
+        #ime{
+            p{
+                font-size: 4vw;
+            }
+        }
+    .ikonice{
+        margin-right: 33px;
+        font-size: 6vw;
+    }
+        
+    }
+    
+}
+@media screen and (max-width: 590px){
+#vestine{
+.skilovi {
+    width: 240px;
+    margin: 42px 56px 53px 80px;
+}
+}
+}
+@media screen and (max-width: 590px) {
+    #projekti{
+        height: 1089px;
+        .wrap{
+            .prvi_projekat{
+                width: 70%;
+                p{
+                    font-size: 4vw;
+                }
+            }
+            .drugi_projekat{
+                width: 70%;
+                p{
+                    font-size: 6vw;
+                }
+            }
+            .treci_projekat{
+                width: 70%;
+                p{
+                    font-size: 6vw;
+                }
+            }
+        }
+    }
+    
+}
+@media screen and (max-width: 590px){
+#Kontakt{
+.wraper{
+.formular {
+    padding-top: 19px;
+    margin-top: 7px;
+    margin-right: -406px;
+}
+.mapa{
+    margin-right:  40px;
+}
+}
+}
+}
+@media screen and (max-width: 590px){
+    footer{
+        .ikonice{
+            font-size: 4.7vw;
+    margin-right: 40px;
+        }
+    }
+}
+@media screen and (max-width: 590px) {
+    #pozadinska_slika{
+        .text{
+            h2{padding: 75px 0px 0px 42px;
+            font-size: 4.5vw;}
+            h1{font-size: 7.7vw;
+            padding: 0px 0px 0px 23px;}
+            p{padding-left: 8px;
+            font-size: 4.4vw;}
+            a{font-size: 23px;}
+        }
+    }
+    
+}
+@media screen and (max-width: 400px) {
+    #pozadinska_slika{
+        .text{
+            p{
+                font-size: 4vw;
+                padding-left: 13px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 400px) {
+    #O_meni{
+        .info_omeni{
+            font-size: 17px;
+            margin: 45px 55px 478px 11px;
+        }
+        .nesto{
+            p{
+                font-size: 3vw;
+    margin-top: -18px;
+    margin-bottom: 80px;
+    margin-right: 76px;
+            }
+            a{
+                margin-right: 49px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 400px) {
+    #vestine{
+        .skilovi{
+            width: 240px;
+            margin: 42px 0px 53px 50px;
+        }
+    }
+}
+@media screen and (max-width: 400px) {
+    #projekti{
+        height: 889px;
+    }
+}
+@media screen and (max-width: 400px) {
+    footer{
+        .ikonice{
+            font-size: 4.7vw;
+    margin-right: 100px;
+        }
+    }
+}
+@media screen and (max-width: 659px) {
+    #O_meni{
+        .nesto{
+            font-size: 2.5vw;
+            margin-top: 331px;
+            margin-bottom: 62px;
+            margin-right: 49px;
+        }
+    }  
+}
+@media screen and (max-width: 330px) {
+    #O_meni{
+        .nesto{
+            font-size: 2.5vw;
+    margin-top: 331px;
+    margin-bottom: 62px;
+    margin-right: 0;
+    margin-left: 89px;
+        }
+        .info_omeni{
+            font-size: 14px;
+            margin: 45px 0px 500px 35px;
+        }
+    }
+    #Kontakt{
+        .wraper{
+        .mapa {
+            margin-right: -29px;
+    }
+}
+}
+footer{
+.ikonice {
+    font-size: 4.7vw;
+    margin-right: 72px;
+        }
+    }
+}
+@media screen and (max-width: 306px) {
+    #pozadinska_slika{
+        .text{
+            a{
+                margin: 10px 40px;
+            }
+            p {
+                font-size: 5vw;
+                padding-left: 10px;
+            }
+            h1{
+                font-size: 7.7vw;
+                padding: 0px 0px 0px 20px;
+            }
+        }
+    }
+
+    #O_meni{
+    .info_omeni {
+    font-size: 11px;
+    margin: 45px 0px 511px 78px;
+            }
+            .nesto{
+                p {
+                    font-size: 4vw;
+                    margin-top: -18px;
+                    margin-bottom: 80px;
+                    margin-right: 90px;
+                }
+            }
+    }
+    #Kontakt{
+.wraper{
+.mapa {
+    margin-right: -51px;
+    }
+        }
+    }
+    #projekti{
+.wrap {
+    margin-left: 34px;
+        }
+    }
+}
+@media screen and (max-width: 299px) {
+    #O_meni{
+        .nesto{
+            p{
+                margin-left: -339px;
+                margin-top: -98px;
+            }
+            a{
+                margin-right: 43px;
+            }
+        }
+        .info_omeni{
+            font-size: 12px;
+            margin: 47px 0px 511px 40px;
+        }
+    }
+    #vestine{
+    .skilovi {
+    width: 238px;
+    margin: 42px 0px 53px 27px;
+}
+    }
+    #pozadinska_slika{
+        .slika_mene{
+            margin: 6% 0% 0% 14%;
+        }
+    }
+}
+@media screen and (max-width: 267px) {
+    #pozadinska_slika{
+        .text{
+            a{
+                margin: 10px 28px;
+            }
+
+        }
+    }
+    header{
+        #logo{
+            margin-right: 44px;
+        }
+nav{
+ul {
+    margin-right: 21px;
+            }
+        }
+    }
+    #O_meni{
+.info_omeni {
+    font-size: 13px;
+    margin: 46px 0px 511px 0px;
+            }
+    }
+    #vestine{
+.skilovi {
+    width: 238px;
+    margin: 42px 0px 53px 11px;
+            }
+    }
+    #projekti{
+        .wrap{
+            .prvi_projekat{
+                width: 80%;
+            }
+            .drugi_projekat{
+                width: 80%;
+            }
+            .treci_projekat{
+                width: 80%;
+            }
+        }
+    }
+    #Kontakt{
+        .wraper{
+            .formular{
+                form{
+                    input{
+                        width: 140%;
+                    }
+                    button{
+                        width: 140%;
+                    }
+                }
+            }
+            .mapa{
+                margin-right: -79px;
+            }
+        }
+    }
+}

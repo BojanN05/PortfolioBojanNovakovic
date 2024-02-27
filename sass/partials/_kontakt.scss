@@ -1,0 +1,60 @@
+#Kontakt{
+    width: 100%;
+    height: 700px;
+    background-color: #333333;
+    h1{
+        text-align: $al;
+        color: $text-color;
+        font-family: "M PLUS Rounded 1c", sans-serif;
+    }
+    .wraper{
+        display: $df;
+        justify-content: $jc;
+
+    
+    .formular{
+        width: 50%;
+        padding-top: 10px;
+        margin-top: 60px;
+        form{
+            max-width: 300px; 
+            margin: 0 auto;
+            input{
+                margin-top: 30px;
+                margin-bottom: 15px;
+                width: 100%;
+                background-color: #1010107d;
+                padding: 15px;
+                border: 2px solid #221e1e;
+                border-radius: 15px;
+                color: $text-color;
+               
+            }
+            textarea{
+                width: 550px;
+                height: 200px;
+                background-color: #1010107d;
+                color: $text-color;
+                resize: none;
+              }
+              button{
+                margin-top: 30px;
+                width: 100%;
+                background-color: #1010107d;
+                padding: 15px;
+                border: 2px solid #221e1e;
+                border-radius: 15px;
+                color: $text-color;
+                cursor: pointer;
+                font-family: "M PLUS Rounded 1c", sans-serif;
+              }
+         }
+        }
+        .mapa{
+            margin-top: 100px;
+            iframe{
+                border-radius: 5%;
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+@mixin pozicija($jc: space-between , $df: flex , $al: center){
+    display: $df;
+    justify-content: $jc;
+    align-items: $al;
+}
+@mixin druga_pozicija($sa: space-around, $se: space-evenly){
+    justify-content: $sa;
+    justify-content: $se;
+}
