@@ -543,16 +543,16 @@
        
         .wrap{
             .prvi_projekat{
-                width: 50%;
+                width: 40%;
                 p{
                     font-size: 3vw;
                 }
             }
             .drugi_projekat{
-                width: 50%;
+                width: 40%;
             }
             .treci_projekat{
-                width: 50%;
+                width: 40%;
             }
         }
 
