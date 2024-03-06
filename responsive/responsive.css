@@ -13,7 +13,7 @@
             p{
                 font-size: 1.8vw;
                 font-family: "M PLUS Rounded 1c", sans-serif;
-                margin-top: 70px;
+                margin-top: 114px;
                 margin-bottom: 20px;
             }
         }
@@ -23,7 +23,7 @@
     #O_meni{
         .info_omeni{
             font-size: 30px;
-            margin:100px 10px 88px 9px;
+            margin: 61px 10px 132px 9px;
             
         }
         .nesto{
@@ -183,6 +183,7 @@
                 }
             }
             .slika_mene{
+                margin: -20% 0% 0% 45%;
                 background-position: -200px -108px;
             }
         }
@@ -211,6 +212,7 @@
             }
         }
         .slika_mene{
+            margin: -23% 0% 0% 46%;
             background-position: -272px -110px;
         }
     }
@@ -269,7 +271,7 @@
                 padding-left: 229px;
             }
             a{
-                margin: 10px 203px;
+                margin: 10px 229px;
             }
          }
     }
@@ -335,6 +337,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-around;
+    gap: 10px
         }
     }
 }
@@ -560,7 +563,7 @@
     #vestine{
         .skilovi{
             width: 418px;
-             margin: 40px 60px 60px 52px;
+            margin: 40px 60px 60px 161px;
         }
     }
     
